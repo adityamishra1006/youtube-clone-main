@@ -44,7 +44,7 @@ export default function Watch() {
               <div>
                 <div>
                   <iframe src={`https://www.youtube.com/embed/${id}?autoplay=1`}
-                  frameBorder="0"
+                  
                   width="800"
                   height="502"
                   allowFullScreen

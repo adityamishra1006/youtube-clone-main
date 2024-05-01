@@ -25,7 +25,7 @@ export default function Card({data}) {
                 </h3>
                 <div className='text-sm text-gray-400'>
                     <div>
-                        <a href='#' className='hover:text-white'>
+                        <a href='https://www.youtube.com/shorts/REt9uET59Jk' className='hover:text-white'>
                             {data.channelInfo.name}
                         </a>
                     </div>
